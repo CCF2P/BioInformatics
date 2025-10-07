@@ -1,2 +1,5 @@
 .venv/
 bioinformatic_dataset/
+*.zip
+*.fasta
+Icon_
